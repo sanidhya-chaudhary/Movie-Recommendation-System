@@ -3,6 +3,17 @@
 Recommendation systems have become prevalent in recent years as they deal with the information overload problem by suggesting to users the most relevant products from massive data.
 Some people like genre-specific movies be it a thriller, romance, or sci-fi, while others focus on lead actors and directors. When we take all that into account, it’s astoundingly difficult to generalize a movie and say that everyone would like it. The main goal of the recommendation system is to forecast the rating that a specific user gives to an item. It helps the user to find the best solution from the available list of items. Many companies use recommendation systems so that they can serve their user and raise their profit like Netflix, such YouTube, Amazon, others Still now it is a good topic of research because finding what the user wants from the available resource is a big challenge, as our choice keeps on changing with time. Nowadays what we purchase online is a recommendation. 
 
+# Dataset
+
+MovieLens 20M Dataset:- https://grouplens.org/datasets/movielens/20m/
+ 
+--> by grouplens.org
+ 
+--> 20 million ratings 
+
+--> 465,000 tag applications applied to 27,000 movies by 138,000 users.
+
+
 # Methodology
 ## Content-Based Filtering 
 
